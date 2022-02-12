@@ -1,0 +1,10 @@
+$b-color:  #4b1dbf;
+
+nav{
+    @include caja-flex(space-between, center, nowrap);
+    background-color: $b-color; 
+    height: 120px;
+    img{
+        padding: 2rem;
+    }
+}

@@ -1,0 +1,13 @@
+.container{
+    @include caja-grid(auto, auto, 25px);
+    width: 80%;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 30px;
+}
+
+@media (max-width: 920px){
+    .container{
+        @include caja-grid-responsive(auto, auto, 25px);
+    }
+}

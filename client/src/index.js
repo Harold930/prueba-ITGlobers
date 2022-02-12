@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import Menu from './Componentes/Menu/Menu';
 import reportWebVitals from './reportWebVitals';
 

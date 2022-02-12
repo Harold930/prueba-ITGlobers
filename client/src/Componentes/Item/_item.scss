@@ -1,0 +1,12 @@
+$size: 200%;
+
+ul{
+    @include caja-flex(center, center, nowrap);
+    list-style-type: none;
+    padding:0;
+    h4{
+        @include caja-flex(center, center, nowrap);
+        font-size: $size;
+        font-weight: 50;
+    }
+}

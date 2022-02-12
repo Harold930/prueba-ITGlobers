@@ -20,16 +20,18 @@ export default function Menu(){
                 <Header />
 
                 { !boolean ? 
-                    <div>
-                        <p>Elige la aerolinea con la que mas te gustaría viajar</p>
-                        {
-                            items?.map((item) => (
-                                <ul onClick={(e)=> handleClick(item.name, e)} key={item.id}>
-                                    <Item props={item}/>
-                                </ul>
-                            ))
-                        }
-                    </div>
+                <div>
+                    {/* <p>Elige la aerolínea con la que más te gustaría viajar</p> */}
+                            <div className='container'>
+                                {
+                                    items?.map((item) => (
+                                        <ul onClick={(e)=> handleClick(item.name, e)} key={item.id}>
+                                            <Item props={item}/>
+                                        </ul>
+                                    ))
+                                }
+                            </div>
+                </div>
                     :
                     <div>
                         <Formulario name={name}/>
