@@ -36,6 +36,10 @@ ul h4 {
   flex-wrap: nowrap;
   font-size: 200%;
   font-weight: 50;
+  cursor: pointer;
+}
+ul img {
+  cursor: pointer;
 }
 
 nav {

@@ -15,7 +15,7 @@ function validate(input){
         errors.celular = 'Escriba un número de celular válido, máximo de 10 dígitos';
     }
 
-    if((input.edad <  18 || input.edad > 100) && (edadRegex.test(input.edad))){
+    if((input.edad <  18 || input.edad > 100) || (!edadRegex.test(input.edad))){
         errors.edad = 'Rango de edad entre 18 y 100 años';
     }
 

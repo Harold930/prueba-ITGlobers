@@ -8,5 +8,9 @@ ul{
         @include caja-flex(center, center, nowrap);
         font-size: $size;
         font-weight: 50;
+        cursor: pointer;
+    }
+    img{
+        cursor: pointer;
     }
 }
