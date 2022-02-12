@@ -26,11 +26,6 @@ export default function Formulario(props){
          );
     }
 
-    //  function handleOnFocus(e){
-    //     //  e.preventDefault();
-    //      setErrors(validate(e))
-    //  }
-
     function handleSubmit(e){
         e.preventDefault();
         if(Object.keys(errors).length !== 0){
