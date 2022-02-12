@@ -20,15 +20,20 @@ Y ya con eso podemos ejecutar la SPA en nuestro equipo.
 
 En caso de no abrir automaticamente el localhost -->> http://localhost:3000/
 
-###Galeria
+### Galeria
 
 Adjunto pantallazos de cómo quedó la página, mostrando la versión de escritorio y la de móvil; tanto 
 el menú como el formulario son responsive. También se hacen las validaciones necesarias en el formulario.
 
+ MENÚ
 <img src='./menu.png' alt='Imagen no encontrada'/>
+ FORMULARIO
 <img src='./formulario.png' alt='Imagen no encontrada'/>
+ FORMULARIO MOSTRANDO ALGUNAS VALIDACIONES
 <img src='./validaciones.png' alt='Imagen no encontrada'/>
+ MENÚ RESPONSIVE
 <img src='./menu_responsive.png' alt='Imagen no encontrada'/>
+ FORMULARIO RESPONSIVE
 <img src='./formulario_responsive.png' alt='Imagen no encontrada'/>
 
 
