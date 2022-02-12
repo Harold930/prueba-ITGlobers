@@ -26,7 +26,7 @@ Adjunto pantallazos de cómo quedó la página, mostrando la versión de escrito
 el menú como el formulario son responsive. También se hacen las validaciones necesarias en el formulario.
 
  MENÚ
-<img src='./menu.png' alt='Imagen no encontrada'/>
+<img src='./img/menu.png' alt='Imagen no encontrada'/>
  FORMULARIO
 <img src='./formulario.png' alt='Imagen no encontrada'/>
  FORMULARIO MOSTRANDO ALGUNAS VALIDACIONES
