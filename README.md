@@ -28,13 +28,13 @@ el menú como el formulario son responsive. También se hacen las validaciones n
  MENÚ
 <img src='./img/menu.png' alt='Imagen no encontrada'/>
  FORMULARIO
-<img src='./formulario.png' alt='Imagen no encontrada'/>
+<img src='./img/formulario.png' alt='Imagen no encontrada'/>
  FORMULARIO MOSTRANDO ALGUNAS VALIDACIONES
-<img src='./validaciones.png' alt='Imagen no encontrada'/>
+<img src='./img/validaciones.png' alt='Imagen no encontrada'/>
  MENÚ RESPONSIVE
-<img src='./menu_responsive.png' alt='Imagen no encontrada'/>
+<img src='./img/menu_responsive.png' alt='Imagen no encontrada'/>
  FORMULARIO RESPONSIVE
-<img src='./formulario_responsive.png' alt='Imagen no encontrada'/>
+<img src='./img/formulario_responsive.png' alt='Imagen no encontrada'/>
 
 
 Gracias por revisar mi prueba. 
